@@ -1,0 +1,16 @@
+/target
+.idea/**
+.vscode/**
+/data/**
+.env
+
+Cargo.lock
+
+output/**
+
+# misc
+.DS_Store
+*.pem
+
+# production
+/build
